@@ -1,0 +1,26 @@
+employee_id,full_name,role,license_number,total_flight_hours,status,base_location
+TU-P001,Mohamed Ben Ali,captain,ATP-TN-001,12450,available,TUN
+TU-P002,Karim Trabelsi,captain,ATP-TN-002,8920,available,TUN
+TU-P003,Fatima Hamdi,captain,ATP-TN-003,7650,on_duty,CDG
+TU-P004,Ahmed Jebali,captain,ATP-TN-004,10200,available,TUN
+TU-FO001,Sami Gharbi,first_officer,CPL-TN-101,4230,available,TUN
+TU-FO002,Leila Mhenni,first_officer,CPL-TN-102,3180,on_duty,IST
+TU-FO003,Youssef Najjar,first_officer,CPL-TN-103,3890,available,TUN
+TU-FO004,Rim Saidi,first_officer,CPL-TN-104,2650,available,TUN
+TU-FO005,Mehdi Zouari,first_officer,CPL-TN-105,2340,on_leave,TUN
+TU-CC001,Amira Belhadj,cabin_chief,CC-TN-001,0,available,TUN
+TU-CC002,Nadia Kallel,cabin_chief,CC-TN-002,0,on_duty,FCO
+TU-CC003,Salma Bouraoui,cabin_chief,CC-TN-003,0,available,TUN
+TU-FA001,Yasmine Chtioui,flight_attendant,FA-TN-101,0,available,TUN
+TU-FA002,Ines Khelifi,flight_attendant,FA-TN-102,0,available,TUN
+TU-FA003,Mariem Ferchichi,flight_attendant,FA-TN-103,0,on_duty,MXP
+TU-FA004,Sarra Cherif,flight_attendant,FA-TN-104,0,available,TUN
+TU-FA005,Olfa Mansouri,flight_attendant,FA-TN-105,0,available,TUN
+TU-FA006,Houda Sghaier,flight_attendant,FA-TN-106,0,off_duty,TUN
+TU-FA007,Emna Bouaziz,flight_attendant,FA-TN-107,0,available,TUN
+TU-FA008,Rania Zaied,flight_attendant,FA-TN-108,0,available,TUN
+TU-FA009,Wafa Dridi,flight_attendant,FA-TN-109,0,available,TUN
+TU-FA010,Hela Mejri,flight_attendant,FA-TN-110,0,on_duty,DXB
+TU-FA011,Samia Ayadi,flight_attendant,FA-TN-111,0,available,TUN
+TU-FA012,Lobna Souissi,flight_attendant,FA-TN-112,0,available,TUN
+TU-FA013,Dorra Haddad,flight_attendant,FA-TN-113,0,available,TUN

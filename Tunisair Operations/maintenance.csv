@@ -1,0 +1,69 @@
+aircraft_registration,maintenance_type,description,scheduled_date,expected_finish_date,completion_date,completed,technician_name,cost
+TS-IOA,routine,Pre-flight inspection and minor repairs,2025-11-15,2025-11-15,2025-11-15 14:00:00,true,Ahmed Riahi,2000
+TS-IOB,routine,Transit check and line maintenance,2025-11-20,2025-11-20,2025-11-20 18:00:00,true,Mehdi Jlassi,1700
+TS-IOC,scheduled,B-Check maintenance inspection,2025-11-10,2025-11-12,2025-11-12 16:00:00,true,Sofiane Trabelsi,14700
+TS-IMB,routine,Scheduled A-Check inspection,2025-11-12,2025-11-12,2025-11-12 16:00:00,true,Karim Belaid,1500
+TS-IMC,scheduled,Landing gear overhaul inspection,2025-11-22,2025-11-24,2025-11-24 18:00:00,true,Ahmed Riahi,19500
+TS-IMD,routine,Weekly line maintenance check,2025-11-08,2025-11-08,2025-11-08 12:00:00,true,Mehdi Jlassi,1000
+TS-IMF,routine,Post-flight inspection,2025-11-25,2025-11-25,2025-11-25 23:00:00,true,Sofiane Trabelsi,450
+TS-IOE,routine,New aircraft initial service,2025-11-28,2025-11-28,2025-11-28 14:00:00,true,Youssef Ben Salem,1400
+TS-IME,scheduled,Complete C-Check inspection and overhaul,2025-11-20,2026-01-04,,false,Karim Belaid,130000
+TS-IOA,routine,Weekly line maintenance and inspection,2025-12-05,2025-12-06,2025-12-06 14:00:00,true,Ahmed Riahi,1500
+TS-IOB,routine,Pre-flight inspection and systems check,2025-12-07,2025-12-08,2025-12-08 18:00:00,true,Karim Belaid,1200
+TS-IOC,scheduled,A-Check maintenance inspection,2025-12-10,2025-12-13,2025-12-13 16:00:00,true,Mehdi Jlassi,8500
+TS-IOD,inspection,Safety equipment inspection,2025-12-12,2025-12-14,2025-12-14 17:00:00,true,Sofiane Trabelsi,2000
+TS-IMB,scheduled,Engine performance test,2025-12-15,2025-12-19,2025-12-19 14:00:00,true,Youssef Ben Salem,12000
+TS-IMC,routine,Hydraulic system check,2025-12-17,2025-12-18,2025-12-18 15:00:00,true,Ahmed Riahi,1800
+TS-IMD,inspection,Avionics system inspection,2025-12-20,2025-12-22,2025-12-22 17:00:00,true,Karim Belaid,3500
+TS-IMF,routine,Oil change and filter replacement,2025-12-22,2025-12-23,2025-12-23 17:00:00,true,Mehdi Jlassi,900
+TS-IOE,scheduled,Landing gear inspection,2025-12-25,2025-12-28,2025-12-28 14:00:00,true,Sofiane Trabelsi,5500
+TS-IOA,inspection,Emergency equipment check,2025-12-27,2025-12-28,2025-12-28 17:00:00,true,Youssef Ben Salem,1200
+TS-IOB,routine,Weekly line maintenance and inspection,2025-12-30,2025-12-31,2025-12-31 18:00:00,true,Ahmed Riahi,1500
+TS-IOC,routine,Pre-flight inspection and systems check,2026-01-01,2026-01-02,2026-01-02 14:00:00,true,Karim Belaid,1200
+TS-IOD,scheduled,A-Check maintenance inspection,2026-01-04,2026-01-07,,false,Mehdi Jlassi,8500
+TS-IMB,inspection,Safety equipment inspection,2026-01-06,2026-01-08,,false,Sofiane Trabelsi,2000
+TS-IMC,scheduled,Engine performance test,2026-01-09,2026-01-13,,false,Youssef Ben Salem,12000
+TS-IMD,routine,Hydraulic system check,2026-01-11,2026-01-12,,false,Ahmed Riahi,1800
+TS-IMF,inspection,Avionics system inspection,2026-01-14,2026-01-16,,false,Karim Belaid,3500
+TS-IOE,routine,Oil change and filter replacement,2026-01-16,2026-01-17,,false,Mehdi Jlassi,900
+TS-IOA,scheduled,Landing gear inspection,2026-01-19,2026-01-22,,false,Sofiane Trabelsi,5500
+TS-IOB,inspection,Emergency equipment check,2026-01-21,2026-01-22,,false,Youssef Ben Salem,1200
+TS-IOC,routine,Weekly line maintenance and inspection,2026-01-24,2026-01-25,,false,Ahmed Riahi,1500
+TS-IOD,routine,Pre-flight inspection and systems check,2026-01-26,2026-01-27,,false,Karim Belaid,1200
+TS-IMB,scheduled,A-Check maintenance inspection,2026-01-29,2026-02-01,,false,Mehdi Jlassi,8500
+TS-IMC,inspection,Safety equipment inspection,2026-01-31,2026-02-02,,false,Sofiane Trabelsi,2000
+TS-IMD,scheduled,Engine performance test,2026-02-03,2026-02-07,,false,Youssef Ben Salem,12000
+TS-IMF,routine,Hydraulic system check,2026-02-05,2026-02-06,,false,Ahmed Riahi,1800
+TS-IOE,inspection,Avionics system inspection,2026-02-08,2026-02-10,,false,Karim Belaid,3500
+TS-IOA,routine,Oil change and filter replacement,2026-02-10,2026-02-11,,false,Mehdi Jlassi,900
+TS-IOB,scheduled,Landing gear inspection,2026-02-13,2026-02-16,,false,Sofiane Trabelsi,5500
+TS-IOC,inspection,Emergency equipment check,2026-02-15,2026-02-16,,false,Youssef Ben Salem,1200
+TS-IOD,routine,Weekly line maintenance and inspection,2026-02-18,2026-02-19,,false,Ahmed Riahi,1500
+TS-IMB,routine,Pre-flight inspection and systems check,2026-02-20,2026-02-21,,false,Karim Belaid,1200
+TS-IMC,scheduled,A-Check maintenance inspection,2026-02-23,2026-02-26,,false,Mehdi Jlassi,8500
+TS-IMD,inspection,Safety equipment inspection,2026-02-25,2026-02-27,,false,Sofiane Trabelsi,2000
+TS-IMF,scheduled,Engine performance test,2026-02-28,2026-03-04,,false,Youssef Ben Salem,12000
+TS-IOE,routine,Hydraulic system check,2026-03-02,2026-03-03,,false,Ahmed Riahi,1800
+TS-IOA,inspection,Avionics system inspection,2026-03-05,2026-03-07,,false,Karim Belaid,3500
+TS-IOB,routine,Oil change and filter replacement,2026-03-07,2026-03-08,,false,Mehdi Jlassi,900
+TS-IOC,scheduled,Landing gear inspection,2026-03-10,2026-03-13,,false,Sofiane Trabelsi,5500
+TS-IOD,inspection,Emergency equipment check,2026-03-12,2026-03-13,,false,Youssef Ben Salem,1200
+TS-IMB,routine,Weekly line maintenance and inspection,2026-03-15,2026-03-16,,false,Ahmed Riahi,1500
+TS-IMC,routine,Pre-flight inspection and systems check,2026-03-17,2026-03-18,,false,Karim Belaid,1200
+TS-IMD,scheduled,A-Check maintenance inspection,2026-03-20,2026-03-23,,false,Mehdi Jlassi,8500
+TS-IMF,inspection,Safety equipment inspection,2026-03-22,2026-03-24,,false,Sofiane Trabelsi,2000
+TS-IOE,scheduled,Engine performance test,2026-03-25,2026-03-29,,false,Youssef Ben Salem,12000
+TS-IOA,routine,Hydraulic system check,2026-03-27,2026-03-28,,false,Ahmed Riahi,1800
+TS-IOB,inspection,Avionics system inspection,2026-03-30,2026-04-01,,false,Karim Belaid,3500
+TS-IOC,routine,Oil change and filter replacement,2026-04-01,2026-04-02,,false,Mehdi Jlassi,900
+TS-IOD,scheduled,Landing gear inspection,2026-04-04,2026-04-07,,false,Sofiane Trabelsi,5500
+TS-IMB,inspection,Emergency equipment check,2026-04-06,2026-04-07,,false,Youssef Ben Salem,1200
+TS-IMC,routine,Weekly line maintenance and inspection,2026-04-09,2026-04-10,,false,Ahmed Riahi,1500
+TS-IMD,routine,Pre-flight inspection and systems check,2026-04-11,2026-04-12,,false,Karim Belaid,1200
+TS-IMF,scheduled,A-Check maintenance inspection,2026-04-14,2026-04-17,,false,Mehdi Jlassi,8500
+TS-IOE,inspection,Safety equipment inspection,2026-04-16,2026-04-18,,false,Sofiane Trabelsi,2000
+TS-IOA,scheduled,Engine performance test,2026-04-19,2026-04-23,,false,Youssef Ben Salem,12000
+TS-IOB,routine,Hydraulic system check,2026-04-21,2026-04-22,,false,Ahmed Riahi,1800
+TS-IOC,inspection,Avionics system inspection,2026-04-24,2026-04-26,,false,Karim Belaid,3500
+TS-IOD,routine,Oil change and filter replacement,2026-04-26,2026-04-27,,false,Mehdi Jlassi,900
+TS-IMB,scheduled,Landing gear inspection,2026-04-29,2026-05-02,,false,Sofiane Trabelsi,5500

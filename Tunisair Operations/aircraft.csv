@@ -1,0 +1,11 @@
+registration,model,manufacturer,year_manufactured,total_seats,status,total_flight_hours,last_maintenance_date,next_maintenance_date,current_location
+TS-IOA,Boeing 737-600,Boeing,2008,132,operational,45230,2025-01-15,2025-04-15,TUN
+TS-IOB,Boeing 737-600,Boeing,2009,132,operational,42180,2025-01-20,2025-04-20,CDG
+TS-IOC,Boeing 737-800,Boeing,2012,189,operational,38450,2025-01-10,2025-04-10,TUN
+TS-IOD,Boeing 737-800,Boeing,2013,189,operational,36720,2025-01-18,2025-04-18,IST
+TS-IMB,Airbus A320-200,Airbus,2010,180,operational,41200,2025-01-12,2025-04-12,TUN
+TS-IMC,Airbus A320-200,Airbus,2011,180,operational,39850,2025-01-22,2025-04-22,FCO
+TS-IMD,Airbus A321-200,Airbus,2014,220,operational,32460,2025-01-08,2025-04-08,TUN
+TS-IME,Airbus A319-100,Airbus,2007,144,maintenance,48920,2024-12-20,2025-02-15,TUN
+TS-IMF,Airbus A320neo,Airbus,2019,186,operational,15230,2025-01-25,2025-04-25,DXB
+TS-IOE,Boeing 737 MAX 8,Boeing,2021,189,operational,8450,2025-01-28,2025-04-28,TUN
